@@ -1,1 +1,1 @@
-web: gunicorn app:blockchain
+web: gunicorn blockchain_frontend.blockchain:blockchain.py
