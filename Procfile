@@ -1,1 +1,1 @@
-web: gunicorn blockchain:blockchain
+web: gunicorn blockchain.app:blockchain
